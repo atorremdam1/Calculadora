@@ -1,0 +1,31 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button {
+	-fx-text-fill: #51611E ;
+	-fx-font-weight: bold;
+	-fx-background-color: #EE6630  ;
+	-fx-font-size: 22px;
+}
+#titulo {
+	-fx-font: bold   20px "Arial";
+	-fx-text-fill: #51611E ;
+	-fx-border-radius: 5;
+	-fx-border-color: #51611E ; 
+	-fx-alignment: center ;
+	-fx-padding: 8px;
+	-fx-border-width: 2px;
+}
+#resultado {
+	-fx-font-size: 22px;
+	-fx-text-fill: white ;
+	-fx-font-weight: bold;
+	-fx-background-color: #81963D ;
+ 	-fx-alignment: center ;
+	-fx-padding: 8px;
+}
+
+#bordegrid {
+	-fx-border-color: green ; 
+	
+	
+}
